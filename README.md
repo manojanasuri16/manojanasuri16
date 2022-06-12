@@ -1,4 +1,4 @@
-# Hi there, I'm [Manoj Anasuri][website] <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi there, I'm [Manoj Anasuri][website] <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10%">
 
 <div align="center"> 
  <img src="header.svg" height = "200em"/> 
