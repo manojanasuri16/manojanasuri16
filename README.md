@@ -1,14 +1,13 @@
-# Hi there, I'm [Manoj Anasuri][website] <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10%">
+# Hi there, I'm [Manoj Anasuri][website] <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20%">
 
 <div align="center"> 
- <img src="header.svg" height = "200em"/> 
+ <img src="header.svg" height = "250em"/> 
 </div>
 <br>
 
 
-I am Manoj, a CS Student from KL University, Vijayawada.
-- 💻 I'm a newbie, trying out different things. 
-- 🌱 I’m currently learning React.
+I am Manoj, a CS Student from KL University, Vijayawada. 
+- 🌱 I’m currently learning Perl Scripting.
 - 📫 How to reach me:  [Mail me](mailto:manojanasuri16@gmail.com "manojanasuri16@gmail.com") 
 - ⚡ I love to do mobile photography, checkout my work [@pexels][pexels]
 
