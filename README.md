@@ -8,7 +8,7 @@
 
 I am Manoj, a CS Student from KL University, Vijayawada. 
 - 🌱 I’m currently learning Perl Scripting.
-- 📫 How to reach me:  [Mail me](mailto:manojanasuri16@gmail.com "manojanasuri16@gmail.com") 
+- 📫 How to reach me:  [Mail me](mailto:manojanasuri16+github@gmail.com "manojanasuri16+github@gmail.com") 
 - ⚡ I love to do mobile photography, checkout my work [@pexels][pexels]
 
 ---
