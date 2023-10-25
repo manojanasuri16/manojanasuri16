@@ -6,10 +6,9 @@
 <br>
 
 
-I am Manoj, a CS Student from KL University, Vijayawada. 
-- 🌱 I’m currently learning React.
+I am Manoj, a CS Graduate from KL University, Vijayawada. 
 - 📫 How to reach me:  [Mail me](mailto:manojanasuri16+github@gmail.com "manojanasuri16+github@gmail.com") 
-- ⚡ I love to do mobile photography, checkout my work [@pexels][pexels]
+- ⚡ I love to do mobile photography, checkout my work [@lenscribble16](https://www.instagram.com/lenscribble16/)
 
 ---
 ### Languages and 🔧 Tools
@@ -72,7 +71,5 @@ I am Manoj, a CS Student from KL University, Vijayawada.
 [github]: https://github.com/manojanasuri16 "github.com/manojanasuri16" 
 [website]: https://manojanasuri.netlify.com "manojanasuri.netlify.com"
 [twitter]: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmanojanasuri16&screen_name=manojanasuri16 "twitter.com/manojanasuri16" 
-[pexels]: https://www.pexels.com/@manoj-anasuri-1819020 "pexels.com/@manoj-anasuri-1819020"
-[youtube]: https://www.youtube.com/channel/UCyshFWIUhGrrhrUEV6lArKw "manojanasuri-youtube"
 [linkedin]: https://linkedin.com/in/manojanasuri16 "linkedin.com/in/manojanasuri16"
 [medium]: https://manojanasuri16.medium.com/ "manojanasuri16.medium.com/"
