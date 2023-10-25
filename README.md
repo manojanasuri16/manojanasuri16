@@ -63,8 +63,6 @@ I am Manoj, a CS Graduate from KL University, Vijayawada.
 
 [<img align="left" src="https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white">][medium]
 
-[<img align="left" src="https://img.shields.io/badge/pexels-%23000000.svg?&style=for-the-badge&logo=pexels&logoColor=#05a081">][pexels]
-
 </div>
 
 <!-- Links -->
