@@ -34,18 +34,6 @@ I build AI-powered systems, data pipelines, and automation tools. Currently work
 
 ---
 
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manojanasuri16&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojanasuri16&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
 ### Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manojanasuri)
