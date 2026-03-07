@@ -6,7 +6,7 @@ I build AI-powered systems, data pipelines, and automation tools. Currently work
 
 - Currently building: [Strava MCP Server](https://github.com/manojanasuri16/STRAVA-MCP-SERVER) — an MCP server connecting Claude to Strava fitness data
 - Interests: AI Agents, RAG systems, LLMs, MCP, Data Science
-- Photography: [@lenscribble16](https://www.instagram.com/lenscribble16/)
+- Fitness: Runner & gym enthusiast | [@steelxstory](https://www.instagram.com/steelxstory/)
 - Reach me: [manojanasuri16+github@gmail.com](mailto:manojanasuri16+github@gmail.com)
 
 ---
