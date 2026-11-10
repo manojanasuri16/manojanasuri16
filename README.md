@@ -63,8 +63,6 @@ Azure AI Foundry, Azure AI Search, Docker and GitHub Actions.
 ### [AppDrop](https://appdrop-store.vercel.app)
 My personal app store. A Next.js 16 and SQLite/Drizzle app that publishes Android APKs (via GitHub Releases) and web apps in one installable PWA, with in-app update checks, push notifications, feedback, beta invites and download insights.
 
-[Open the store](https://appdrop-store.vercel.app)
-
 </td>
 <td width="50%" valign="top">
 
