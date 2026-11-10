@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Manoj Anasuri, AI Engineer">
+  <style>
+    :root { --bg1:#f5f5f7; --bg2:#e8e8ed; --fg:#1d1d1f; --muted:#6e6e73; --a:#0071e3; --b:#8e5af7; }
+    @media (prefers-color-scheme: dark) {
+      :root { --bg1:#1c1c1e; --bg2:#000000; --fg:#f5f5f7; --muted:#a1a1a6; --a:#2997ff; --b:#bf5af2; }
+    }
+    .bg1{stop-color:var(--bg1)} .bg2{stop-color:var(--bg2)}
+    .ga{stop-color:var(--a)} .gb{stop-color:var(--b)}
+    text{font-family:-apple-system,BlinkMacSystemFont,"SF Pro Display","Inter","Segoe UI",Helvetica,Arial,sans-serif}
+    .name{font-size:76px;font-weight:700;letter-spacing:-0.035em;fill:var(--fg)}
+    .role{font-size:30px;font-weight:600;letter-spacing:-0.01em;fill:url(#g)}
+    .sub{font-size:20px;font-weight:400;letter-spacing:0;fill:var(--muted)}
+  </style>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop class="bg1" offset="0"/><stop class="bg2" offset="1"/></linearGradient>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop class="ga" offset="0"/><stop class="gb" offset="1"/></linearGradient>
+  </defs>
+  <rect width="1200" height="320" rx="28" fill="url(#bg)"/>
+  <text x="600" y="145" text-anchor="middle" class="name">Manoj Anasuri</text>
+  <text x="600" y="198" text-anchor="middle" class="role">AI Engineer</text>
+  <text x="600" y="246" text-anchor="middle" class="sub">Agents · RAG · LLMs · and the apps I ship for fun</text>
+</svg>
