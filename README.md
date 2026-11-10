@@ -2,15 +2,25 @@
 
 **AI Engineer @ [Bosch](https://www.bosch-softwaretechnologies.com/) | Data Science | Generative AI**
 
-I build AI-powered systems, data pipelines, and automation tools. Currently working on Generative AI, LLM-based applications, AI Agents, and scalable ML solutions at Bosch Global Software Technologies, Bengaluru.
+AI Engineer with 3+ years of experience, including 2.6 years building and deploying Generative AI, LLM, RAG, and agentic AI systems. At Bosch Global Software Technologies (Bengaluru), I work on multi-agent systems, multimodal and knowledge-graph RAG, and enterprise AI applications on Azure.
 
 - Currently building: Android apps, shipped through my own app store, [AppDrop](https://appdrop-six.vercel.app)
-- Side project: [Strava MCP Server](https://github.com/manojanasuri16/STRAVA-MCP-SERVER), an MCP server connecting AI assistants to Strava fitness data
-- Interests: AI Agents, RAG systems, LLMs, MCP, Data Science, and building mobile and web apps
+- Interests: AI Agents, multi-agent systems, RAG, LLMs, MCP, Data Science, and building mobile and web apps
 - Fitness: Runner & gym enthusiast | [@steelxstory](https://www.instagram.com/steelxstory/)
 - Reach me: [manojanasuri16+github@gmail.com](mailto:manojanasuri16+github@gmail.com)
 
 ---
+
+### What I work on
+
+- **Multi-agent systems:** autonomous task decomposition and multi-step reasoning with Google ADK and MCP servers
+- **RAG pipelines:** vector search plus knowledge graphs (Weaviate, Azure AI Search, Neo4j, LlamaIndex) for accurate document Q&A
+- **Forecasting:** time-series prediction with Prophet and MLflow
+- **Enterprise deployment:** Azure AI Foundry, Azure AI Search, Docker and GitHub Actions
+
+**Open source**
+
+- **[Strava MCP Server](https://github.com/manojanasuri16/STRAVA-MCP-SERVER):** an MCP server with 30+ tools over the Strava API, usable from any MCP client
 
 ### What I'm building lately
 
@@ -25,11 +35,24 @@ Lately I've been spending my time building and shipping real apps, mostly privat
 **AI / ML**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langgraph&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-8B5CF6?style=flat&logoColor=white)
+![Google ADK](https://img.shields.io/badge/Google%20ADK-4285F4?style=flat&logo=google&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=flat&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+
+**Data & Cloud**
+
+![Azure](https://img.shields.io/badge/Azure%20AI-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white)
+![Weaviate](https://img.shields.io/badge/Weaviate-00B4A0?style=flat&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
 **Web & Tools**
 
