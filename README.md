@@ -6,7 +6,7 @@
 
 **3+ years building Generative AI, RAG and agentic systems at [Bosch Global Software Technologies](https://www.bosch-softwaretechnologies.com/en/), Bengaluru.**
 <br>
-Outside work, I build and ship private, offline-first Android apps.
+Outside work, I build and ship private, offline-first Android apps, and keep old phone software alive at [RetroArchive](https://manojanasuri16.github.io/RetroArchive/).
 
 <br>
 
@@ -67,13 +67,13 @@ My personal app store. A Next.js 16 and SQLite/Drizzle app that publishes Androi
 <td width="50%" valign="top">
 
 ### [RetroArchive](https://manojanasuri16.github.io/RetroArchive/)
-A retro-styled archive for the Nokia N79: Symbian S60v3 and Java ME apps, games, SDKs and install guides, with a light version for the phone's own browser. Built with Astro and hosted on GitHub Pages.
+A retro-styled archive of old phone software: Symbian and Java ME apps, games, SDKs and install guides, with a light version for the phone's own browser. Built with Astro and hosted on GitHub Pages.
 
 </td>
 </tr>
 </table>
 
-<a href="https://manojanasuri16.github.io/RetroArchive/"><img src="assets/retroarchive.svg" alt="RetroArchive: software for the N79 era" width="100%"></a>
+<a href="https://manojanasuri16.github.io/RetroArchive/"><img src="assets/retroarchive.svg" alt="RetroArchive: software for retro phones" width="100%"></a>
 
 <br>
 
