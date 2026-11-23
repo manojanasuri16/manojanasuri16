@@ -71,20 +71,6 @@ A retro-styled archive for the Nokia N79: Symbian S60v3 and Java ME apps, games,
 
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
-
-### [Strava MCP Server](https://github.com/manojanasuri16/STRAVA-MCP-SERVER)
-An open-source MCP server with 30+ tools over the Strava API, usable from any MCP client.
-
-</td>
-<td width="50%" valign="top">
-
-### N79 apps (Symbian)
-[RetroSend](https://github.com/manojanasuri16/RetroSend) (LocalSend for old Nokia phones), [RetroTele](https://github.com/manojanasuri16/RetroTele) (Telegram client) and [RetroTorch](https://github.com/manojanasuri16/RetroTorch), plus the [Symbian toolchain](https://github.com/manojanasuri16/symbian-s60v3-toolchain) to build them on Linux.
-
-</td>
-</tr>
 </table>
 
 <a href="https://manojanasuri16.github.io/RetroArchive/"><img src="assets/retroarchive.svg" alt="RetroArchive: software for the N79 era" width="100%"></a>
