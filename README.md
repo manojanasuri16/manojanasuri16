@@ -6,7 +6,7 @@
 
 **3+ years building Generative AI, RAG and agentic systems at [Bosch Global Software Technologies](https://www.bosch-softwaretechnologies.com/en/), Bengaluru.**
 <br>
-Outside work, I build and ship private, offline-first Android apps, and bring a 2008 Nokia N79 back to life.
+Outside work, I build and ship private, offline-first Android apps.
 
 <br>
 
@@ -16,66 +16,6 @@ Outside work, I build and ship private, offline-first Android apps, and bring a 
 [![Instagram](https://img.shields.io/badge/@steelxstory-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/steelxstory/)
 
 </div>
-
-<br>
-
-## Featured
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<a href="https://appdrop-store.vercel.app"><img src="assets/appdrop-icon.png" alt="AppDrop" width="72" align="left" hspace="12"></a>
-
-### [AppDrop](https://appdrop-store.vercel.app)
-**My own app store.** Publish Android APKs (straight from GitHub Releases) and web apps in one installable PWA, with in-app update checks, push notifications, feedback, beta invites and download insights.
-
-`Next.js 16` `React 19` `SQLite / Drizzle` `PWA`
-
-[**Open the store**](https://appdrop-store.vercel.app) · [Source](https://github.com/manojanasuri16/AppDrop)
-
-</td>
-<td width="50%" valign="top">
-
-### [RetroArchive](https://manojanasuri16.github.io/RetroArchive/)
-**A retro-styled archive for the Nokia N79.** Symbian S60v3 and Java ME apps, games, SDKs and install guides, plus a light phone-browser version. Apps I wrote, and old ones I tested and kept alive.
-
-`Astro` `GitHub Pages` `Symbian` `Java ME`
-
-[**Open the archive**](https://manojanasuri16.github.io/RetroArchive/) · [Source](https://github.com/manojanasuri16/RetroArchive)
-
-</td>
-</tr>
-</table>
-
-<a href="https://manojanasuri16.github.io/RetroArchive/"><img src="assets/retroarchive.svg" alt="RetroArchive: software for the N79 era" width="100%"></a>
-
-### Built for the Nokia N79 (Symbian S60v3)
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-**[RetroSend](https://github.com/manojanasuri16/RetroSend)**<br>
-LocalSend for old Nokia phones. Send and receive photos, videos and files over Wi-Fi.
-
-</td>
-<td width="33%" valign="top">
-
-**[RetroTele](https://github.com/manojanasuri16/RetroTele)**<br>
-A Telegram client written in Python for S60, speaking MTProto directly.
-
-</td>
-<td width="33%" valign="top">
-
-**[RetroTorch](https://github.com/manojanasuri16/RetroTorch)**<br>
-A torch using the camera LED, the screen and the keypad light.
-
-</td>
-</tr>
-</table>
-
-Also: [Symbian S60v3 toolchain](https://github.com/manojanasuri16/symbian-s60v3-toolchain) (build native code on modern Linux) and the [N79 unlock guide](https://github.com/manojanasuri16/symbian-unlock-guide).
 
 <br>
 
@@ -114,10 +54,40 @@ Azure AI Foundry, Azure AI Search, Docker and GitHub Actions.
 
 <br>
 
-## Also building
+## What I'm building lately
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [AppDrop](https://appdrop-store.vercel.app)
+My personal app store. A Next.js 16 and SQLite/Drizzle app that publishes Android APKs (via GitHub Releases) and web apps in one installable PWA, with in-app update checks, push notifications, feedback, beta invites and download insights.
+
+</td>
+<td width="50%" valign="top">
+
+### [RetroArchive](https://manojanasuri16.github.io/RetroArchive/)
+A retro-styled archive for the Nokia N79: Symbian S60v3 and Java ME apps, games, SDKs and install guides, with a light version for the phone's own browser. Built with Astro and hosted on GitHub Pages.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### [Strava MCP Server](https://github.com/manojanasuri16/STRAVA-MCP-SERVER)
 An open-source MCP server with 30+ tools over the Strava API, usable from any MCP client.
+
+</td>
+<td width="50%" valign="top">
+
+### N79 apps (Symbian)
+[RetroSend](https://github.com/manojanasuri16/RetroSend) (LocalSend for old Nokia phones), [RetroTele](https://github.com/manojanasuri16/RetroTele) (Telegram client) and [RetroTorch](https://github.com/manojanasuri16/RetroTorch), plus the [Symbian toolchain](https://github.com/manojanasuri16/symbian-s60v3-toolchain) to build them on Linux.
+
+</td>
+</tr>
+</table>
+
+<a href="https://manojanasuri16.github.io/RetroArchive/"><img src="assets/retroarchive.svg" alt="RetroArchive: software for the N79 era" width="100%"></a>
 
 <br>
 
@@ -130,7 +100,7 @@ An open-source MCP server with 30+ tools over the Strava API, usable from any MC
 ![Azure](https://img.shields.io/badge/Azure%20AI-0078D4?style=flat&logo=microsoftazure&logoColor=white) ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white) ![Weaviate](https://img.shields.io/badge/Weaviate-00B4A0?style=flat&logoColor=white) ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
 **Web & Tools**<br>
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white) ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Symbian](https://img.shields.io/badge/Symbian%20S60-78A2D6?style=flat&logoColor=white) ![PyS60](https://img.shields.io/badge/PyS60-3776AB?style=flat&logo=python&logoColor=white) ![Java ME](https://img.shields.io/badge/Java%20ME-D65A5A?style=flat&logo=openjdk&logoColor=white) ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat&logo=astro&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white) ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 <br>
 
