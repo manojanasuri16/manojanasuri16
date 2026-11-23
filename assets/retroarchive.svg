@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="300" viewBox="0 0 880 300" role="img" aria-label="RetroArchive: software for the Nokia N79 era">
+  <rect width="880" height="300" fill="#E5D3AE"/>
+  <rect x="44" y="40" width="800" height="230" fill="#333"/>
+  <rect x="30" y="26" width="800" height="230" fill="#FDF6EE" stroke="#111" stroke-width="2"/>
+  <line x1="30" y1="76" x2="830" y2="76" stroke="#8a7f70" stroke-width="1.5"/>
+  <rect x="52" y="40" width="26" height="14" fill="#8a8a8a" stroke="#555"/><rect x="62" y="52" width="26" height="14" fill="#b9b9b9" stroke="#555"/>
+  <text x="102" y="60" font-family="Impact,'Arial Narrow',sans-serif" font-size="22" letter-spacing="3" fill="#111" textLength="210" lengthAdjust="spacingAndGlyphs">RETROARCHIVE</text>
+  <text x="560" y="58" font-family="Arial,sans-serif" font-weight="700" font-size="14" letter-spacing="3" fill="#111" textLength="250" lengthAdjust="spacingAndGlyphs">APPS   GAMES   SDKS   GUIDES</text>
+  <text x="56" y="150" font-family="Impact,'Arial Narrow',sans-serif" font-size="64" fill="#111" textLength="150" lengthAdjust="spacingAndGlyphs">RETRO</text>
+  <rect x="226" y="98" width="298" height="68" fill="#333"/><rect x="220" y="92" width="298" height="68" fill="#78A2D6"/>
+  <text x="234" y="148" font-family="Impact,'Arial Narrow',sans-serif" font-size="64" fill="#111" textLength="270" lengthAdjust="spacingAndGlyphs">ARCHIVE</text>
+  <text x="56" y="192" font-family="Arial,sans-serif" font-weight="700" font-size="17" letter-spacing="5" fill="#4a4238" textLength="370" lengthAdjust="spacing">SOFTWARE FOR THE N79 ERA</text>
+  <g font-family="Arial,sans-serif" font-weight="700" font-size="13" letter-spacing="2">
+    <rect x="56" y="212" width="150" height="30" fill="#D65A5A"/><text x="72" y="232" fill="#fff" textLength="120" lengthAdjust="spacingAndGlyphs">SYMBIAN S60v3</text>
+    <rect x="218" y="212" width="110" height="30" fill="#78A2D6"/><text x="234" y="232" fill="#111" textLength="74" lengthAdjust="spacingAndGlyphs">JAVA ME</text>
+    <rect x="340" y="212" width="150" height="30" fill="#333"/><text x="356" y="232" fill="#fff" textLength="110" lengthAdjust="spacingAndGlyphs">SDKs + GUIDES</text>
+  </g>
+  <rect x="640" y="98" width="150" height="150" fill="#D9C29A" stroke="#111" stroke-width="2"/>
+  <rect x="664" y="112" width="102" height="66" fill="#78A2D6" stroke="#111" stroke-width="2"/>
+  <rect x="674" y="122" width="22" height="18" fill="#FDF6EE"/><rect x="704" y="122" width="22" height="18" fill="#FDF6EE"/><rect x="734" y="122" width="22" height="18" fill="#D65A5A"/><rect x="674" y="148" width="22" height="18" fill="#FDF6EE"/><rect x="704" y="148" width="22" height="18" fill="#FDF6EE"/>
+  <g fill="#FDF6EE" stroke="#111"><rect x="666" y="190" width="30" height="14"/><rect x="702" y="190" width="30" height="14"/><rect x="738" y="190" width="28" height="14"/><rect x="666" y="210" width="30" height="14"/><rect x="702" y="210" width="30" height="14"/><rect x="738" y="210" width="28" height="14"/></g>
+</svg>
