@@ -6,7 +6,7 @@
 
 **3+ years building Generative AI, RAG and agentic systems at [Bosch Global Software Technologies](https://www.bosch-softwaretechnologies.com/en/), Bengaluru.**
 <br>
-Outside work, I build and ship private, offline-first Android apps, and keep old phone software alive at [RetroArchive](https://manojanasuri16.github.io/RetroArchive/): my own Symbian apps, tested Java games, SDKs and toolchains, and step-by-step install and unlock guides.
+Outside work, I build and ship private, offline-first Android apps, and bring classic Symbian and Java phones back to life with [RetroArchive](https://manojanasuri16.github.io/RetroArchive/).
 
 <br>
 
